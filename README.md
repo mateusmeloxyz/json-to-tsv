@@ -1,6 +1,6 @@
-# json-to-csv
+# json-to-tsv
 
-Json to csv converter writen in python
+Json to tsv converter writen in python
 
 ## Objective
 
